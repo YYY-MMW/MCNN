@@ -93,3 +93,5 @@ img,data,n = Loader(1,path,ipath,15,[300,400])
 
 MCNN = torch.load('./data/MCNN.pkl').to(device)
 
+#更新！！
+
